@@ -1,2 +1,5 @@
 /* main styles */
 
+.image_wrapper{
+    display: flex;
+}
